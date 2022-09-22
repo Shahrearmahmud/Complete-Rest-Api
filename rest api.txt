@@ -1,0 +1,2 @@
+1. installation package - npm init -y 
+2. npm install express nodemon cors body-parser dotenv uuid
